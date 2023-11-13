@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Dateipfad zur CSV-Datei anpassen
-csv_dateipfad = '1_2_e.csv'
+csv_dateipfad = '1_2_e_D1.csv'
 
 # Daten aus der CSV-Datei lesen
 data = pd.read_csv(csv_dateipfad, header=None, names=['X', 'Y1', 'Y2'])
