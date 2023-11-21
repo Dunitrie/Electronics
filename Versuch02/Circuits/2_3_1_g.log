@@ -1,0 +1,26 @@
+Circuit: * C:\Users\demo\Documents\Studium\ESE\WS23\Elektronik\Lab\Versuch02\Circuits\2_3_1_g.asc
+
+WARNING: Node VO is floating.
+
+WARNING: Less than two connections to node VO.  This node is used by CHP.
+Direct Newton iteration for .op point succeeded.
+.step r_e=220
+.step r_e=680
+
+Date: Tue Nov 21 17:06:57 2023
+Total elapsed time: 0.079 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2090
+traniter = 2085
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 12
+fillins = 0
+solver = Normal
+Matrix Compiler1: 660 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 908 bytes object code size  0.1/0.1/[0.1]
+
