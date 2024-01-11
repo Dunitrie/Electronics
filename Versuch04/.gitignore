@@ -1,0 +1,12 @@
+# Ignore Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Ignore EMF files
+*.emf
+
+# Ignore .net files
+*.net
+
+# Ignore log files
+*.log

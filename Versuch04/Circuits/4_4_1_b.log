@@ -1,0 +1,48 @@
+Circuit: * C:\Users\demo\Documents\Studium\ESE\WS23\Elektronik\Lab\Versuch04\Circuits\4_4_1_b.asc
+
+WARNING: Less than two connections to node VO.  This node is used by RO.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.48432
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon Jan 08 18:35:29 2024
+Total elapsed time: 0.084 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1902
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 28
+fillins = 63
+solver = Normal
+Matrix Compiler1:     264 opcodes  0.8/0.4/[0.2]
+Matrix Compiler2: 3.35 KB object code size  0.3/0.3/[0.2]
+
